@@ -10,8 +10,14 @@ colorama.init()
 
 """ 
   - Documentation
-  -
-"""
+  - just for linux user's ()
+  
+
+
+
+
+  
+""" 
 
  
 
