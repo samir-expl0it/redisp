@@ -68,7 +68,10 @@ except socket.error:
     print("Couldn't connect to server")
     sys.exit()
 t2 = datetime.now()
+# datetime.now( ture )
+
 total = t2 - t1 
+
 print(" finish scaning in : ", total)
 
 
