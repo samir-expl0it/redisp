@@ -10,7 +10,7 @@ colorama.init()
 
 """ 
   - Documentation
-  - just for linux user's ()
+  - Just for linux user's () 
   
 
 
